@@ -12,7 +12,6 @@ Features for this shell program include:
 
 Instructions for compiling:
 
-Instructions for compiling:
 - Copy smallsh.c to Unix machine
 - Compile with:  gcc -std=gnu99 smallsh.c -o smallsh
 - Run with: ./smallsh
