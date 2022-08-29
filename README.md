@@ -1,4 +1,4 @@
-# Shell program by Alex Meyers
+# SmallShell program by Alex Meyers
 
 Features for this shell program include: 
 - Provide a prompt for running commands
